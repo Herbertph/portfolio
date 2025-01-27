@@ -106,5 +106,9 @@
         align-items: center;
        
     }
+
+    .heroImg{
+        animation: none;
+    }
     
 }
