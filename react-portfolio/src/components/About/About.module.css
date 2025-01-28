@@ -5,7 +5,7 @@
     background-color: rgba(12,12,12,0.6);
     border-radius: 15px;
     padding: 73px;
-    margin-top: 129px;
+    margin-top: 50px;
     z-index: 1;
     align-items: center;
     margin-left: 10%;
@@ -44,12 +44,8 @@
     border-radius: 20px;
     padding: 25px;
     list-style: none;
-    background-image: linear-gradient(
-    90deg,
-     rgba(165, 215, 232, 0.42) 0%,
-     rgba(255, 255, 255, 0) 100%,
-     );
-    background-size: 0 100%;
+    background-image: linear-gradient(to right, rgba(165, 215, 232, 0.42), rgba(255, 255, 255, 0));
+    background-size: 0% 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
 }
@@ -73,6 +69,10 @@
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+    }
+
+    .title{
+        text-align: center;
     }
 
     .content {
