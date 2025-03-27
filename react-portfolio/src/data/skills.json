@@ -19,7 +19,14 @@
       "title": "Node",
       "imageSrc": "skills/node.png"
     },
-   
+   {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+   },
+   {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+   },
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"

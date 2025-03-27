@@ -1,25 +1,25 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "lorem ispum.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Crud + Authentication API",
+      "imageSrc": "projects/CrudLinq.png",
+      "description": "A secure RESTful API for user management built with ASP.NET Core 8.0, featuring JWT authentication and PostgreSQL database integration.",
+      "skills": ["C#", "PostgreSQL", "Entity Framework", "Docker", "Azure"],
+      "demo": "https://usersapi-app.azurewebsites.net/swagger/index.html",
+      "source": "https://github.com/Herbertph/Crud_LinQ"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "lorem ispum.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Parking Management System",
+      "imageSrc": "projects/parkingManager.png",
+      "description": "A robust Spring Boot application designed to manage parking establishments and vehicle operations.",
+      "skills": ["Java", "Spring Boot", "MongoDb"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Herbertph/ParkingManagement"
     },
     {
-      "title": "Project C",
+      "title": "Billing System",
       "imageSrc": "projects/project.png",
-      "description": "lorem ispum.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A simple Command-Line Interface (CLI) application developed in C++ for managing restaurant orders.",
+      "skills": ["C++"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
