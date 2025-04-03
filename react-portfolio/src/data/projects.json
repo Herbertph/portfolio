@@ -2,25 +2,23 @@
     {
       "title": "Crud + Authentication API",
       "imageSrc": "projects/CrudLinq.png",
-      "description": "A secure RESTful API for user management built with ASP.NET Core 8.0, featuring JWT authentication and PostgreSQL database integration.",
+      "description": "A secure RESTful API for user management built with .NET, featuring JWT and PostgreSQL database integration.",
       "skills": ["C#", "PostgreSQL", "Entity Framework", "Docker", "Azure"],
       "demo": "https://usersapi-app.azurewebsites.net/swagger/index.html",
       "source": "https://github.com/Herbertph/Crud_LinQ"
     },
     {
-      "title": "Parking Management System",
+      "title": "Parking Management",
       "imageSrc": "projects/parkingManager.png",
-      "description": "A robust Spring Boot application designed to manage parking establishments and vehicle operations.",
-      "skills": ["Java", "Spring Boot", "MongoDb"],
-      "demo": "https://www.example.com",
+      "description": "A robust Spring application designed to manage parking establishments and vehicle operations +  report system.",
+      "skills": ["Java", "Spring", "MongoDb"],
       "source": "https://github.com/Herbertph/ParkingManagement"
     },
     {
-      "title": "Billing System",
-      "imageSrc": "projects/project.png",
-      "description": "A simple Command-Line Interface (CLI) application developed in C++ for managing restaurant orders.",
-      "skills": ["C++"],
-      "demo": "https://www.example.com",
+      "title": "TODO Mean Stack",
+      "imageSrc": "projects/todo.png",
+      "description": "Did this project for a company as a test and decide to incorporate to my portfolio without any reference to the company.",
+      "skills": ["Javascript", "Angular", "Node", "MongoDB"],
       "source": "https://www.github.com"
     }
   ]

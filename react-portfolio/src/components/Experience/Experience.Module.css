@@ -26,7 +26,8 @@
   width: 45%;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  gap: 25px;
+  justify-content: center;
 }
 
 .skill {
@@ -42,12 +43,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
 }
 
 .skillImageContainer img {
-  width: 75px;
+  width: 65px;
 }
 
 .skill p {

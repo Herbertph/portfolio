@@ -19,18 +19,27 @@
       "title": "Node",
       "imageSrc": "skills/node.png"
     },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
    {
       "title": "C#",
       "imageSrc": "skills/csharp.png"
    },
    {
+    "title": ".Net",
+    "imageSrc": "skills/net.png"
+  },
+   {
       "title": "Java",
       "imageSrc": "skills/java.png"
    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
+   
+   {
+    "title": "Spring",
+    "imageSrc": "skills/Spring.png"
+  },  
     {
       "title": "MySQL",
       "imageSrc": "skills/mysql.png"
@@ -38,6 +47,7 @@
     {
       "title": "SqlServer",
       "imageSrc": "skills/sqlserver.png"
-    }
+    }   
+    
   ]
 
