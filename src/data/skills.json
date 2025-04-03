@@ -1,52 +1,52 @@
 [
     {
-      "title": "Javascript",
-      "imageSrc": "skills/js.png"
+      "title": "JavaScript",
+      "imageSrc": "/portfolio/assets/skills/js.png"
     },
     {
-      "title": "Typescript",
-      "imageSrc": "skills/ts.png"
+      "title": "TypeScript",
+      "imageSrc": "/portfolio/assets/skills/ts.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "/portfolio/assets/skills/react.png"
     },
     {
         "title": "Angular",
-        "imageSrc": "skills/angular.png"
+        "imageSrc": "/portfolio/assets/skills/angular.png"
     },
     {
       "title": "Node",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "/portfolio/assets/skills/node.png"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "/portfolio/assets/skills/mongodb.png"
     },
    {
       "title": "C#",
-      "imageSrc": "skills/csharp.png"
+      "imageSrc": "/portfolio/assets/skills/csharp.png"
    },
    {
-    "title": ".Net",
-    "imageSrc": "skills/net.png"
+    "title": ".NET",
+    "imageSrc": "/portfolio/assets/skills/net.png"
   },
    {
       "title": "Java",
-      "imageSrc": "skills/java.png"
+      "imageSrc": "/portfolio/assets/skills/java.png"
    },
    
    {
     "title": "Spring",
-    "imageSrc": "skills/Spring.png"
+    "imageSrc": "/portfolio/assets/skills/Spring.png"
   },  
     {
       "title": "MySQL",
-      "imageSrc": "skills/mysql.png"
+      "imageSrc": "/portfolio/assets/skills/mysql.png"
     },
     {
-      "title": "SqlServer",
-      "imageSrc": "skills/sqlserver.png"
+      "title": "SQL Server",
+      "imageSrc": "/portfolio/assets/skills/sqlserver.png"
     }   
     
   ]
