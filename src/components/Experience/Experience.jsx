@@ -1,7 +1,6 @@
 import React from 'react';
-import skills from '../../data/skills.json';
+import { skills } from '../../data/skills.js';
 import styles from './Experience.module.css';
-import { getImageUrl } from '../../utils';
 
 export const Experience = () => {
     return (
@@ -13,7 +12,7 @@ export const Experience = () => {
               return (
                 <div key={id} className={styles.skill}>
                   <div className={styles.skillImageContainer}>
-                    <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
+                    <img src={skill.imageSrc} alt={skill.title} />
                   </div>
                   <p>{skill.title}</p>
                 </div>
@@ -24,5 +23,4 @@ export const Experience = () => {
           </div>
       </section>
     );
-
 };
