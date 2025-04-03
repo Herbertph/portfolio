@@ -4,24 +4,23 @@ export const projects = [
   {
     title: "CRUD LINQ",
     imageSrc: `${base}assets/projects/CrudLinq.png`,
-    description: "Projeto desenvolvido em C# utilizando LINQ para manipulação de dados.",
-    skills: ["C#", "LINQ", "SQL Server"],
-    demo: "https://github.com/HerbertPH/CRUD-LINQ",
-    source: "https://github.com/HerbertPH/CRUD-LINQ"
+    description: "A secure RESTful API for user management built with .NET, featuring JWT database integration.",
+    skills: ["C#", ".Net", "LINQ", "Postgre"],
+    demo: "https://usersapi-app.azurewebsites.net/swagger/index.html",
+    source: "https://github.com/Herbertph/Crud_LinQ"
   },
   {
     title: "Parking Manager",
     imageSrc: `${base}assets/projects/parkingManager.png`,
-    description: "Sistema de gerenciamento de estacionamento desenvolvido em C#.",
-    skills: ["C#", "SQL Server"],
-    source: "https://github.com/HerbertPH/Parking-Manager"
+    description: "A Spring application designed to manage parking establishments and vehicle operations.",
+    skills: ["Java", "Spring", "MongoDb"],
+    source: "https://github.com/Herbertph/ParkingManagement"
   },
   {
     title: "Todo List",
     imageSrc: `${base}assets/projects/todo.png`,
-    description: "Lista de tarefas desenvolvida em React.",
-    skills: ["React", "JavaScript", "CSS"],
-    demo: "https://herbertph.github.io/todo-list/",
-    source: "https://github.com/HerbertPH/todo-list"
+    description: "Originally built as a technical test, this project show my skills with MEAN.",
+    skills: ["JavaScript", "Angular", "Node", "MongoDb"],
+    source: "https://github.com/Herbertph/Todo_Mean"
   }
 ]; 
