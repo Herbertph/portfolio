@@ -18,13 +18,14 @@ export const skills = [
     imageSrc: `${base}assets/skills/angular.png`
   },
   {
+    title: "Vue",
+    imageSrc: `${base}assets/skills/vue.png`
+  },
+  {
     title: "Node",
     imageSrc: `${base}assets/skills/node.png`
   },
-  {
-    title: "MongoDB",
-    imageSrc: `${base}assets/skills/mongodb.png`
-  },
+  
   {
     title: "C#",
     imageSrc: `${base}assets/skills/csharp.png`
@@ -48,5 +49,9 @@ export const skills = [
   {
     title: "SQL Server",
     imageSrc: `${base}assets/skills/sqlserver.png`
+  },
+  {
+    title: "MongoDB",
+    imageSrc: `${base}assets/skills/mongodb.png`
   }
 ]; 

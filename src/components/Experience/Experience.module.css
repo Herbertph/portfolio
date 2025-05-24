@@ -101,6 +101,22 @@
   margin-left: 17px;
 }
 
+  .skills:hover .skill {
+  opacity: 0.3;
+  filter: grayscale(100%);
+  transition: all 0.3s ease;
+}
+
+.skills .skill:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;
@@ -118,4 +134,5 @@
     width: 100%;
     gap: 9px;
   }
+
 }

@@ -6,7 +6,6 @@ export const projects = [
     imageSrc: `${base}assets/projects/CrudLinq.png`,
     description: "A secure RESTful API for user management built with .NET, featuring JWT database integration.",
     skills: ["C#", ".Net", "LINQ", "Postgre"],
-    demo: "https://usersapi-app.azurewebsites.net/swagger/index.html",
     source: "https://github.com/Herbertph/Crud_LinQ"
   },
   {
@@ -22,5 +21,21 @@ export const projects = [
     description: "Originally built as a technical test, this project show my skills with MEAN.",
     skills: ["JavaScript", "Angular", "Node", "MongoDb"],
     source: "https://github.com/Herbertph/Todo_Mean"
-  }
+  },
+  {
+    title: "Brazil in Moncton",
+    imageSrc: `${base}assets/projects/vitrine.png`,
+    description: "Landing page showing brazilian business and events in the city of Moncton.",
+    skills: ["JavaScript", "Vue", "Tailwind"],
+    demo: "https://herbertph.github.io/monctonVitrine/",
+    source: "https://github.com/Herbertph/monctonVitrine",
+  },
+  {
+    title: "Grandma Kitchen",
+    imageSrc: `${base}assets/projects/kitchen.png`,
+    description: "With spoonacular API, this website help you choose your next recipe.",
+    skills: ["JavaScript", "Vue", "Tailwind"],
+    demo: "https://herbertph.github.io/recipeWebsite/#/",
+    source: "https://github.com/Herbertph/recipeWebsite",
+  },
 ]; 

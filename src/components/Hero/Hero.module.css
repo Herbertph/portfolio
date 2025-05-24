@@ -44,16 +44,22 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    transition: all 0.3s ease;
+}
+
+.contactBtn:hover {
+    background-color: var(--color-accent);
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
 }
 
 .heroImg{
     width: 30%;
     z-index: 1;
 
-    animation-name: floating;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in-out;
+
 }
 
 @keyframes floating {
